@@ -3,6 +3,8 @@
 #ifndef X_SWAP_H
 #define X_SWAP_H
 
+// ********** swap **********
+// ±‰¡øΩªªª
 template<class TYPE>
 inline void swap(TYPE& left, TYPE& right) noexcept
 {
